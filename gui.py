@@ -1,7 +1,7 @@
 from tkinter import *
 import numpy as np 
 from PIL import ImageGrab 
-from Prediction import predict 
+from prediction import predict 
 
 window = Tk() 
 window.title("Handwritten digit recognition") 
